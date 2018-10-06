@@ -38,7 +38,7 @@
       <bpmn:extensionElements>
         <camunda:formData>
           <camunda:formField id="email" label="E-Mail" type="string" />
-          <camunda:formField id="tweetContent" label="Zu veröffentlichender Text" type="string" />
+          <camunda:formField id="tweetContent" label="Zu veröffentlichender Text." type="string" />
         </camunda:formData>
       </bpmn:extensionElements>
       <bpmn:outgoing>SequenceFlow_1vqcip2</bpmn:outgoing>
